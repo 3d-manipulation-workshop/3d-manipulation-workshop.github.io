@@ -1,6 +1,6 @@
 # 1st Workshop on 3D Visual Representations for Robot Manipulation.
 
-Location: [ICRA 2024, Vienna, Austria](https://2024.ieee-icra.org/)  
+Location: [ICRA 2024, Yokohama, Japan](https://2024.ieee-icra.org/)  
 Date: May 17th, 2024
 Time: 9am - 6pm
 
