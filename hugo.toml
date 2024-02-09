@@ -1,4 +1,13 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://3d-manipulation-workshop.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '1st Workshop on 3D Visual Representations for Robot Manipulation'
 theme = 'console'
+
+
+[[params.navlinks]]
+  name = "home/"
+  url = "/"
+  
+  [[params.navlinks]]
+  name = "call for papers/"
+  url = "call/"
