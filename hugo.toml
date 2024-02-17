@@ -1,6 +1,6 @@
 baseURL = 'https://3d-manipulation-workshop.github.io/'
 languageCode = 'en-us'
-title = '1st Workshop on 3D Visual Representations for Robot Manipulation'
+title = '3DVRM Workshop @ ICRA 2024'
 theme = 'console'
 
 
