@@ -1,11 +1,162 @@
 {{ define "main" }}
 
-{{ with .Site.GetPage "_index.md" }}
+    {{ with .Site.GetPage "index/1-info.md" }}
 
-<h1>{{ .Title }}</h1>
+        <h1>{{ .Title }}</h1>
 
-{{ .Content }}
+        {{ .Content }}
 
-{{ end }}
+    {{ end }}
 
+    <h2>Invited Speakers</h2>
+
+    <div class="grid-container">
+        <div class="grid-item">
+            <img src="images/speakers/jeannette.png" alt="Jeannette Bohg" style="width:100%">
+            <div style="text-align: center;">
+                <a href="https://web.stanford.edu/~bohg/">Jeannette Bohg</a><br>
+                Stanford University
+            </div>
+        </div>
+        <div class="grid-item">
+            <img src="images/speakers/jenjen.jpeg" alt="Jen Jen Chung" style="width:100%">
+            <div style="text-align: center;">
+                <a href="https://jenjenchung.github.io/anthropomorphic/">Jen Jen Chung</a><br>
+                University of Queensland
+            </div>
+        </div>
+        <div class="grid-item">
+            <img src="images/speakers/pete-crop.png" alt="Pete Florence" style="width:100%">
+            <div style="text-align: center;">
+                <a href="https://www.peteflorence.com/">Pete Florence</a><br>
+                Google DeepMind
+            </div>
+        </div>
+        <div class="grid-item">
+            <img src="images/speakers/katerina.png" alt="Katerina Fragkiadaki" style="width:100%">
+            <div style="text-align: center;">
+                <a href="https://www.cs.cmu.edu/~katef/">Katerina Fragkiadaki</a><br>
+                Carnegie Mellon University
+            </div>
+        </div>
+        <div class="grid-item">
+            <img src="images/speakers/stephen_james.jpg" alt="Stephen James" style="width:100%">
+            <div style="text-align: center;">
+                <a href="https://stepjam.github.io/">Stephen James</a><br>
+                Dyson Robotics
+            </div>
+        </div>
+        <div class="grid-item">
+            <img src="images/speakers/hao.jpeg" alt="Hao Su" style="width:100%">
+            <div style="text-align: center;">
+                <a href="https://cseweb.ucsd.edu/~haosu/">Hao Su</a><br>
+                University of California, San Diego
+            </div>
+        </div>
+        <div class="grid-item">
+            <img src="images/speakers/he.jpeg" alt="He Wang" style="width:100%">
+            <div style="text-align: center;">
+                <a href="https://hughw19.github.io/">He Wang</a><br>
+                Peking University
+            </div>
+        </div>
+        <div class="grid-item">
+            <img src="images/speakers/yu.png" alt="Yu Xiang" style="width:100%">
+            <div style="text-align: center;">
+                <a href="https://yuxng.github.io/">Yu Xiang</a><br>
+                University of Texas, Dallas
+            </div>
+        </div>
+
+    </div>
+    <style>
+        .grid-container {
+            display: flex;
+            flex-wrap: wrap;
+            padding: 0;
+            margin: 0;
+        }
+        .grid-item {
+            flex: 50%; /* default, on mobile */
+            box-sizing: border-box;
+            padding: 10px;
+            display: flex;
+            flex-direction: column; /* Organize content vertically */
+            align-items: center; /* Center-align items for aesthetics */
+        }
+        .grid-item img {
+            width: 100%; /* Make image fill the width of .grid-item */
+            height: 300px; /* Fixed height for images */
+            object-fit: cover; /* Cover ensures images will fill the area nicely */
+            margin-bottom: 10px; /* Optional: adds some space between the image and the text below */
+        }
+        @media (min-width: 768px) { /* Adjust this breakpoint as needed */
+            .grid-item {
+                flex: 25%; /* switch to 4x2 grid on desktop */
+            }
+        }
+    </style>
+
+    {{ with .Site.GetPage "index/2-schedule.md" }}
+
+    <h1>{{ .Title }}</h1>
+
+    {{ .Content }}
+
+    {{ end }}
+
+    <h2>Organizers</h2>
+
+    <div class="grid-container">
+        <div class="grid-item">
+            <img src="images/organizers/ben.png" alt="Ben Eisner" style="width:100%">
+            <div style="text-align: center;">
+                <a href="https://beisner.me/">Ben Eisner</a><br>
+                Carnegie Mellon University
+            </div>
+        </div>
+        <div class="grid-item">
+            <img src="images/organizers/yang.jpeg" alt="Yang Gao" style="width:100%">
+            <div style="text-align: center;">
+                <a href="https://yang-gao.weebly.com/">Yang Gao</a><br>
+                Tsinghua University
+            </div>
+        </div>
+        <div class="grid-item">
+            <img src="images/organizers/agrim.jpeg" alt="Agrim Gupta" style="width:100%">
+            <div style="text-align: center;">
+                <a href="http://web.stanford.edu/~agrim/">Agrim Gupta</a><br>
+                Stanford University
+            </div>
+        </div>
+        <div class="grid-item">
+            <img src="images/organizers/held.jpeg" alt="David Held" style="width:100%">
+            <div style="text-align: center;">
+                <a href="https://davheld.github.io/">David Held</a><br>
+                Carnegie Mellon University
+            </div>
+        </div>
+        <div class="grid-item">
+            <img src="images/organizers/chuer.jpeg" alt="Chuer Pan" style="width:100%">
+            <div style="text-align: center;">
+                <a href="https://chuerpan.com/">Chuer Pan</a><br>
+                Stanford University
+            </div>
+        </div>
+        <div class="grid-item">
+            <img src="images/organizers/daniel.png" alt="Daniel Seita" style="width:100%">
+            <div style="text-align: center;">
+                <a href="https://danielseita.github.io/">Daniel Seita</a><br>
+                University of Southern California
+            </div>
+        </div>
+        <div class="grid-item">
+            <img src="images/organizers/sanjana.jpeg" alt="Sanjana Srivastava" style="width:100%">
+            <div style="text-align: center;">
+                <a href="https://scholar.google.com/citations?user=sqTh_dwAAAAJ&hl=en">Sanjana Srivastava</a><br>
+                Stanford University
+            </div>
+        </div>
+    </div>
+    
 {{ end }}
