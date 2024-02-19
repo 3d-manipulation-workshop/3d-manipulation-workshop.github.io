@@ -1,5 +1,42 @@
 {{ define "main" }}
 
+    <!-- Sidebar -->
+    <div class="sidebar">
+        <a href="#about">About</a><br>
+        <a href="#important-dates">Important Dates</a><br>
+        <a href="#call-for-workshop-papers">Call for Workshop Papers</a><br>
+        <a href="#invited-speakers">Invited Speakers</a><br>
+        <a href="#tentative-schedule">Tentative Schedule</a><br>
+        <a href="#organizers">Organizers</a><br>
+        <!-- Add more links as needed -->
+    </div>
+
+    <style>
+        .sidebar {
+            display: none; /* Hide sidebar by default */
+            position: fixed;
+            top: 100px;
+            left: 50px;
+            width: 250px;
+            height: 100%;
+            overflow: auto;
+        }
+    
+        .content {
+            margin-left: 0; /* No margin by default */
+        }
+    
+        @media (min-width: 1600px) { /* Only apply these styles when viewport width is 768px or more */
+            .sidebar {
+                display: block; /* Show sidebar */
+            }
+    
+            .content {
+                margin-left: 200px; /* Adjust content position to make space for the sidebar */
+            }
+        }
+    </style>
+
     {{ with .Site.GetPage "index/1-info.md" }}
 
         <h1>{{ .Title }}</h1>
@@ -8,7 +45,7 @@
 
     {{ end }}
 
-    <h2>Invited Speakers</h2>
+    <h2 id="invited-speakers">Invited Speakers</h2>
 
     <div class="grid-container">
         <div class="grid-item">
@@ -105,7 +142,7 @@
 
     {{ end }}
 
-    <h2>Organizers</h2>
+    <h2 id="organizers">Organizers</h2>
 
     <div class="grid-container">
         <div class="grid-item">
