@@ -8,6 +8,10 @@ LaTeX templates: http://ras.papercept.net/conferences/support/tex.php#latexclass
 
 Submission link: https://openreview.net/group?id=IEEE.org/2024/ICRA/Workshop/3D_Manipulation
 
+### Dual-Submission Policy
+
+We encourage both novel (unpublished/under-review) work and work that has been published recently in a peer-reviewed venue; including at ICRA 2024. Depending on the number of submissions received, we may prioritize novel work in the review process.
+
 ## Important Dates
 
 | Date | Event |
