@@ -12,6 +12,10 @@ Submission link: https://openreview.net/group?id=IEEE.org/2024/ICRA/Workshop/3D_
 
 We encourage both novel (unpublished/under-review) work and work that has been published recently in a peer-reviewed venue; including at ICRA 2024. Depending on the number of submissions received, we may prioritize novel work in the review process.
 
+### Attendance Requirement for Authors
+
+As we will have an in-person poster session, we will require at least one author of each accepted paper must register for the workshop. In the case that no authors can attend, we will also allow the authors to delegate a non-author representative to present their poster.
+
 ## Important Dates
 
 | Date | Event |
