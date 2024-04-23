@@ -21,8 +21,8 @@ As we will have an in-person poster session, we will require at least one author
 | Date | Event |
 |------|-------|
 | April 5th, 2024 (11:59pm PST) | Paper submission deadline |
-| April 16th, 2024 | Notification of acceptance |
-| May 3rd, 2024 (11:59pm PST) | Camera-ready deadline |
+| April 23rd, 2024 | Notification of acceptance |
+| May 7th, 2024 (11:59pm PST) | Camera-ready deadline |
 | May 17th, 2024 | Workshop |
 
 ## Topics of Interest
