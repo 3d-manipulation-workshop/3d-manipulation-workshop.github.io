@@ -5,7 +5,7 @@
 
 Location: [ICRA 2024, Yokohama, Japan](https://2024.ieee-icra.org/)  
 Date: May 17th, 2024
-Time: 9am - 6pm
+Time: 9:00am - 5:00pm
 
 
 ## About
@@ -17,8 +17,8 @@ In order for robots to be capable of manipulating a wide range of novel objects 
 | Date | Event |
 |------|-------|
 | April 5th, 2024 (11:59pm PST) | Paper submission deadline |
-| April 16th, 2024 | Notification of acceptance |
-| May 3rd, 2024 (11:59pm PST) | Camera-ready deadline |
+| April 23rd, 2024 | Notification of acceptance |
+| May 7th, 2024 (11:59pm PST) | Camera-ready deadline |
 | May 17th, 2024 | Workshop |
 
 
