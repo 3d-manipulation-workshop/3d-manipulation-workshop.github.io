@@ -2,19 +2,19 @@
 
 | Time | Activity |
 |------|----------|
-| 9:00 - 9:15 | Opening Remarks |
-| 9:15 - 9:45 | Invited Talk #1 |
-| 9:45 - 10:15 | Invited Talk #2 |
-| 10:15 - 10:45 | Spotlight talks #1 |
-| 10:45 - 11:30 | Coffee break and poster presentations #1 |
-| 11:30 - 12:00 | Invited Talk #3 |
-| 12:00 - 13:15 | Lunch |
-| 13:15 - 13:45 | Invited Talk #4 |
-| 13:45 - 14:15 | Invited Talk #5 |
-| 14:15 - 14:45 | Spotlight talks #2 |
-| 14:45 - 15:30 | Coffee break and poster presentations #2 |
-| 15:30 - 16:00 | Invited Talk #6 |
-| 16:00 - 16:30 | Invited Talk #7 |
-| 16:30 - 17:00 | Invited Talk #8 |
-| 17:00 - 17:30 | Panel Discussion |
-| 17:30 - 17:45 | Organizers give closing remarks |
+| 9:00 - 9:10 | Opening Remarks |
+| 9:10 - 9:40 | Invited Talk #1: Katerina Fragkiadaki |
+| 9:40 - 10:10 | Invited Talk #2: Jen Jen Chung |
+| 10:10 - 10:25 | Spotlight talks #1 |
+| 10:25 - 11:10 | Coffee break and poster presentations #1 |
+| 11:10 - 11:40 | Invited Talk #3: Pete Florence |
+| 11:40 - 12:10 | Invited Talk #4: He Wang |
+| 12:10 - 13:30 | Lunch |
+| 13:30 - 14:00 | Invited Talk #5: Jeannette Bohg |
+| 14:00 - 14:30 | Invited Talk #6: Hao Su |
+| 14:30 - 15:00 | Invited Talk #7: Yu Xiang |
+| 15:00 - 15:15 | Spotlight talks #2 |
+| 15:15 - 16:00 | Coffee break and poster presentations #2 |
+| 16:00 - 16:30 | Invited Talk #8: Stephen James|
+| 16:30 - 17:00 | Panel Discussion |
+| 17:00 - 17:10 | Organizers give closing remarks |
