@@ -8,9 +8,9 @@
 | 10:10 - 10:25 | Spotlight talks #1 |
 | 10:25 - 11:10 | Coffee break and poster presentations #1 |
 | 11:10 - 11:40 | Invited Talk #3: Pete Florence |
-| 11:40 - 12:10 | Invited Talk #4: He Wang |
+| 11:40 - 12:10 | Invited Talk #4: Jeannette Bohg  |
 | 12:10 - 13:30 | Lunch |
-| 13:30 - 14:00 | Invited Talk #5: Jeannette Bohg |
+| 13:30 - 14:00 | Invited Talk #5: He Wang|
 | 14:00 - 14:30 | Invited Talk #6: Hao Su |
 | 14:30 - 15:00 | Invited Talk #7: Yu Xiang |
 | 15:00 - 15:15 | Spotlight talks #2 |
