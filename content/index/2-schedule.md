@@ -10,9 +10,9 @@
 | 11:10 - 11:40 | Invited Talk #3: Ken Goldberg |
 | 11:40 - 12:10 | Invited Talk #4: Jeannette Bohg |
 | 12:10 - 13:30 | Lunch |
-| 13:30 - 14:00 | Invited Talk #5: He Wang |
+| 13:30 - 14:00 | Invited Talk #5: Yu Xiang |
 | 14:00 - 14:30 | Invited Talk #6: Hao Su |
-| 14:30 - 15:00 | Invited Talk #7: Yu Xiang |
+| 14:30 - 15:00 | Invited Talk #7: He Wang |
 | 15:00 - 15:15 | Spotlight talks #2 |
 | 15:15 - 16:00 | Coffee break and poster presentations #2 |
 | 16:00 - 16:30 | Invited Talk #8: Stephen James|
