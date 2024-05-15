@@ -12,9 +12,9 @@
 | 12:10 - 13:30 | Lunch |
 | 13:30 - 14:00 | Invited Talk #5: Yu Xiang |
 | 14:00 - 14:30 | Invited Talk #6: Hao Su |
-| 14:30 - 15:00 | Invited Talk #7: He Wang |
-| 15:00 - 15:15 | Spotlight talks #2 |
-| 15:15 - 16:00 | Coffee break and poster presentations #2 |
+| 14:30 - 14:45 | Spotlight talks #2 |
+| 14:45 - 15:30 | Coffee break and poster presentations #2 |
+| 15:30 - 16:00 | Invited Talk #7: He Wang |
 | 16:00 - 16:30 | Invited Talk #8: Stephen James|
 | 16:30 - 17:00 | Panel Discussion |
 | 17:00 - 17:10 | Organizers give closing remarks |
