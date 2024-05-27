@@ -7,7 +7,7 @@ Location: [ICRA 2024, Yokohama, Japan](https://2024.ieee-icra.org/)
 Date: May 17th, 2024
 Time: 9:00am - 5:00pm
 
-Feel free to use [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSdq0ZkKkna4z8IO2U9-_z0f3W--s8OMQQWWEKLSksZEGk17Ow/viewform) to submit questions throughout the day.
+If you have questions about the workshop, email seita@usc.edu.
 
 ## About
 
